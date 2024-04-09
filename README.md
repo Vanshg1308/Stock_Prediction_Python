@@ -1,1 +1,1 @@
-# python_project
+Developed predictive models for stock price forecasting, spanning 3 years of historical data. Overcame challenges to create accurate predictions for the next 20 days, showcasing expertise in machine learning and analytics in Python.
